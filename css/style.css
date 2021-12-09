@@ -8,7 +8,7 @@ body{
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+    color: black;
 }
 
 
@@ -43,6 +43,7 @@ nav{
 .ux{
     background-color: pink;
 }
+
 
 ul.top{
     width: 100%;
