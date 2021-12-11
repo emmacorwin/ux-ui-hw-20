@@ -60,9 +60,290 @@ ul.top{
 }
 
 .heroImg{
-    width:100%;
-    margin-bottom: 35px;
+    width:120%;
+    margin-left: -130px;
 }
+.jumbotron .jumbotron-fluid{
+    color: white;
+}
+
+
+
+.badge .badge-pill .badge-warning{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.overview{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    width: 600px;
+    background-color: #EDEDE6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.problem{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.problem2{
+    margin-top: -15px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.solution{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.tools{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    width: 150px;
+    background-color: #EDEDE6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;  
+}
+
+.userResearch{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.userResearch2{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.userResearch3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.research{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 375px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.class{
+    display: flex;
+    align-items: row;
+    justify-content: left;
+}
+
+.name2{
+    margin-left: 30px;
+  
+}
+
+.user{
+    width: 200px;
+    margin-left: 20px;
+    
+}
+
+.findingsImg{
+    width: 600px;
+    margin-left: 20px;
+}
+
+.findings{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+
+.informationStructure{
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    background-color: #EDEDE6;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.information{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.userflowImg{
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.userflow{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.style{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.styleGuide{
+    width: 600px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.wireframe{
+    width: 600px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.usabilityTesting{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    justify-content: right;
+
+}
+
+.testing{
+    display: flex;
+    align-items: row;
+    justify-content: left;
+}
+
+.usability{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    justify-content: right;
+}
+
+.highFidelityimg{
+    width: 600px;
+    margin-left: 20px;
+}
+
+.button3{
+    background-color: #D76143;
+    border: none;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 180px;
+    margin-bottom: 50px;
+    margin-top: -50px;
+
+}
+
+.reflection{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    background-color: #EDEDE6; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px; 
+}
+
+
 
 .footer{
     background-color: pink ;
